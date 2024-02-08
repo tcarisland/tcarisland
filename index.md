@@ -1,7 +1,11 @@
 # tcarisland
 
-Hi, my name's Thor Arisland, I'm a software developer who enjoys working with vectors, pixel-art and music production.
+Hi, this is my GitHub pages site.
 
-This page serves as my blog, while my static site is available on [tcarisland.no](https://site.tcarisland.no).
+Here's a list of some interesting repositories I'm working on:
 
-On this page I'll share news, tutorials and updates while I'm working on my main site.
+### Advanced Hatch
+
+Advanced Hatch is an extension of the Hatch Outline Plugin.
+
+[github.com/tcarisland/AdvancedHatch](https://github.com/tcarisland/AdvancedHatch)
